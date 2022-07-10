@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/69952837/178147543-b337c977-cfa6-4089-8d81-00681b3180d2.png"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/69952837/178149643-3451beeb-5586-458c-9e63-fe1b2497c009.png"></p>
 
 <div align="center">
   <H1>RGB(Robot Gear Bricks)</H1>
