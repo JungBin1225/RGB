@@ -1,7 +1,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/69952837/178147543-b337c977-cfa6-4089-8d81-00681b3180d2.png"></p>
 
 <div align="center">
-  <H1>Lost Earth</H1>
+  <H1>RGB(Robot Gear Bricks)</H1>
 </div>
 
 + ## **게임 개요**
