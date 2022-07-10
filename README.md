@@ -1,7 +1,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/69952837/178149643-3451beeb-5586-458c-9e63-fe1b2497c009.png"></p>
 
 <div align="center">
-  <H1>RGB(Robot Gear Bricks)</H1>
+  <H1>RGB(Robot Gear Bricks)<br>Way Back Home(가제)</H1>
 </div>
 
 + ## **게임 개요**
