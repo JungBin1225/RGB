@@ -17,9 +17,9 @@
   + ### 개발 형태
     + #### 팀 프로젝트
   + ### 개발 인원 및 역할
-    + #### 손익현 - <img alt="프로그래머" src ="https://img.shields.io/badge/프로그래머(프론트엔드)-5C2D91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white"/>
+    + #### 손익현 - <img alt="프로그래머" src ="https://img.shields.io/badge/프로그래머(백엔드)-5C2D91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white"/>
     + #### 이석호 - <img alt="기획자" src ="https://img.shields.io/badge/기획자-2B579A.svg?&style=for-the-badge&logo=MicrosoftWord&logoColor=white"/>
-    + #### 이정빈 - <img alt="프로그래머" src ="https://img.shields.io/badge/프로그래머(백엔드)-5C2D91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white"/>
+    + #### 이정빈 - <img alt="프로그래머" src ="https://img.shields.io/badge/프로그래머(클라이언트)-5C2D91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white"/>
     + #### 임원주 - <img alt="아트 디자이너" src ="https://img.shields.io/badge/아트 디자이너-31A8FF.svg?&style=for-the-badge&logo=AdobePhotoshop&logoColor=black"/>
     + #### 한상민 - <img alt="사운드 디자이너" src ="https://img.shields.io/badge/사운드 디자이너-FF3300.svg?&style=for-the-badge&logo=SoundCloud&logoColor=black"/>
 + ## **게임 상세**
