@@ -10,17 +10,17 @@
   + ### 장르
     + #### 액션 아케이드 게임
   + ### 개발에 사용한 엔진 및 언어 
-    + <img alt="Unity" src ="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black"/> <img alt="C#" src ="https://img.shields.io/badge/C Sharp-239120.svg?&style=for-the-badge&logo=CSharp&logoColor=white"/>
+    + <img alt="Unity" src ="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black"/> <img alt="C#" src ="https://img.shields.io/badge/C Sharp-99CC00.svg?&style=for-the-badge&logo=sharp&logoColor=white"/>
 + ## **개발 개요**
   + ### 개발 기간
-    + #### 2021-11-16 ~ 개발 중
+    + #### 2021-11-16 ~ 2022-12-10(개발 중단)
   + ### 개발 형태
     + #### 팀 프로젝트
   + ### 개발 인원 및 역할
-    + #### 손익현 - <img alt="프로그래머" src ="https://img.shields.io/badge/프로그래머(백엔드)-5C2D91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white"/>
-    + #### 이석호 - <img alt="기획자" src ="https://img.shields.io/badge/기획자-2B579A.svg?&style=for-the-badge&logo=MicrosoftWord&logoColor=white"/>
-    + #### 이정빈 - <img alt="프로그래머" src ="https://img.shields.io/badge/프로그래머(클라이언트)-5C2D91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white"/>
-    + #### 임원주 - <img alt="아트 디자이너" src ="https://img.shields.io/badge/아트 디자이너-31A8FF.svg?&style=for-the-badge&logo=AdobePhotoshop&logoColor=black"/>
+    + #### 손익현 - <img alt="프로그래머" src ="https://img.shields.io/badge/프로그래머(백엔드)-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=black"/>
+    + #### 이석호 - <img alt="기획자" src ="https://img.shields.io/badge/기획자-4285F4.svg?&style=for-the-badge&logo=googledocs&logoColor=black"/>
+    + #### 이정빈 - <img alt="프로그래머" src ="https://img.shields.io/badge/프로그래머(클라이언트)-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black"/>
+    + #### 임원주 - <img alt="아트 디자이너" src ="https://img.shields.io/badge/아트 디자이너-7D929E.svg?&style=for-the-badge&logo=aseprite&logoColor=black"/>
     + #### 한상민 - <img alt="사운드 디자이너" src ="https://img.shields.io/badge/사운드 디자이너-FF3300.svg?&style=for-the-badge&logo=SoundCloud&logoColor=black"/>
 + ## **게임 상세**
   + ### 스토리
